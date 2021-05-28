@@ -2,10 +2,12 @@ body {background: black; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Luci
 
 h1 {color: white;}
 
+#aboutMe {
+    background: grey;
+}
 
-
-img {width 400px;
-height: 400px;
+img {width: 250px;
+height: 250px;
 }
 
 p {color: white;}
