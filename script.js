@@ -1,5 +1,5 @@
 const h2 = document.createElement('h2');
-h2.textContent = "Hey, I'm Caitlyn"; 
+h2.textContent = "Hey, I'm Caitlyn."; 
 document.querySelector('body').appendChild(h2);
 
 h2.style.color = "#FFFFFF";
